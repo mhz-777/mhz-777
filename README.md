@@ -1,14 +1,6 @@
-# Aspiring Front-end Developer
+# Hey
 
-What's good welcome to my github. 
-
-Check out my repos while you're here! Eventually there will be a link here:
-
-====> FUTURE LINK TO MY WEBSITE <====
-
-Hold your horses though. It may not be here today but it will be eventually trust me >:)
-
-Thanks for stopping by 👋
+You reading this?
 
 <!---
 mhz-777/mhz-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
